@@ -1,3 +1,6 @@
+# About this repository
+Trying out [https://developer.mozilla.org/en-US/docs/Web/API/Window_Management_API](Windows Managment API)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
